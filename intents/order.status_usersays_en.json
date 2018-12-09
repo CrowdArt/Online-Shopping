@@ -1,0 +1,158 @@
+[
+  {
+    "id": "a63ac55a-965a-4e0b-9d77-2a33d5329e87",
+    "data": [
+      {
+        "text": "my email is ",
+        "userDefined": false
+      },
+      {
+        "text": "dialogflow@dialogflow.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      },
+      {
+        "text": " can you check my order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fda8a155-dd73-4820-9e0b-b83ddf587102",
+    "data": [
+      {
+        "text": "can you check my orders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a3f4ddf-3100-4a3a-943f-37f1f28380db",
+    "data": [
+      {
+        "text": "check order for email ",
+        "userDefined": false
+      },
+      {
+        "text": "example@dialogflow.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4a04176-f245-4e67-83d1-e7e872a0a3a8",
+    "data": [
+      {
+        "text": "my orders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53247703-1d0e-4dfd-a3ea-5f67c86e94c6",
+    "data": [
+      {
+        "text": "where is my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c921ce90-73fe-4392-b5e3-ff1df2b7b537",
+    "data": [
+      {
+        "text": "my order number is ",
+        "userDefined": false
+      },
+      {
+        "text": "938464",
+        "alias": "order-number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " can you check it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "568932d7-fd3d-43ac-8553-4a7656c38c27",
+    "data": [
+      {
+        "text": "check my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24225af8-408c-47af-a779-f72059aae8da",
+    "data": [
+      {
+        "text": "what\u0027s my order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d882e95e-3e4b-45f4-a0d0-e00da5bb3730",
+    "data": [
+      {
+        "text": "where is my package",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2729ae95-8189-4f2a-8272-4c81a791653d",
+    "data": [
+      {
+        "text": "check order ",
+        "userDefined": false
+      },
+      {
+        "text": "1234",
+        "alias": "order-number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "test@dialogflow.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

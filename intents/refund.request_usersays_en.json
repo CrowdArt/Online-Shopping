@@ -1,0 +1,128 @@
+[
+  {
+    "id": "8bb6fe8b-7f25-4d6a-be94-73493db20409",
+    "data": [
+      {
+        "text": "I want my money back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b024ab98-057d-4f4a-b2c5-24a4cd4fd682",
+    "data": [
+      {
+        "text": "I request a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c136b7d4-96dc-4ca3-af9a-57ef22828e37",
+    "data": [
+      {
+        "text": "I received a damaged item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f65e2ce-7a2d-4351-b2c4-5a9e55cc98dc",
+    "data": [
+      {
+        "text": "Can I get my money back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0acbe4f-e821-4999-a7bc-fb823c5d4bd6",
+    "data": [
+      {
+        "text": "I want to get refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "560ce6c6-f309-494a-b68c-66790bed44d7",
+    "data": [
+      {
+        "text": "I want to return my purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff4808d3-4b9d-415e-a668-2c89763e9915",
+    "data": [
+      {
+        "text": "cancel purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb7dcd84-4792-43f6-b96e-1e6dbc18d477",
+    "data": [
+      {
+        "text": "I received a wrong item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65cd2760-bb8c-49b6-92ea-94edba51018e",
+    "data": [
+      {
+        "text": "I\u0027d like to cancel purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "48616226-5519-4476-9408-4067ce49bbea",
+    "data": [
+      {
+        "text": "Refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94d86a9f-08a8-4175-946d-598307b00471",
+    "data": [
+      {
+        "text": "I want to make an exchange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

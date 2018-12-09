@@ -1,0 +1,95 @@
+[
+  {
+    "id": "b020dd97-80b9-45ac-8db5-2624ad74e2d8",
+    "data": [
+      {
+        "text": "shipping rates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02a47ae6-0da5-4d9e-a846-54910a26f552",
+    "data": [
+      {
+        "text": "delivery charges",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5cb9826-8655-407b-9fdb-beee1cb34022",
+    "data": [
+      {
+        "text": "can you show me delivery options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25ce8ec4-d2c0-4a37-9892-72215e3401b5",
+    "data": [
+      {
+        "text": "shipping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8de8ae2f-6ae6-4a17-9bbe-47e6acc50d24",
+    "data": [
+      {
+        "text": "delivery time frames",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1271030b-6099-42d1-9ed0-6b31f1d339dd",
+    "data": [
+      {
+        "text": "check delivery options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a171910d-1b68-4e3f-a3a7-3131942deb31",
+    "data": [
+      {
+        "text": "delivery options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1481195272
+  },
+  {
+    "id": "1438582f-f2bb-4054-87a3-8d0c9aadfbd9",
+    "data": [
+      {
+        "text": "what are the shipping options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
